@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Cruz Ferreira Monteiro
 
-<!--
-**JuanCruzFerreiraM/JuanCruzFerreiraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Computación en la UNLP, apasionado por **IA/FinTech** y **sistemas embebidos**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Actualmente
+- Aprendiendo **Machine Learning** y **NLP** con aplicación a finanzas.
+- Mejorando mis habilidades en **Sistemas de tiempo real y sistemas embebidos**
+
+## 💻 Proyectos destacados
+- ![Slicer propio para impresión 3D de casas](https://github.com/JuanCruzFerreiraM/GcodeGenerator)
+
+
+## 📫 Contacto
+- Email: juancruzferreiramonteiro04@gmail.com 
+- GitHub: [JuanCruzFerreiraM](https://github.com/JuanCruzFerreiraM)  
+
+## 📊 Estadísticas GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCruzFerreiraM&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruzFerreiraM&hide_border=true&theme=tokyonight)
+
+---
