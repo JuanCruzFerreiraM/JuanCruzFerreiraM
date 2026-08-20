@@ -23,4 +23,4 @@ Computer Engineering student (UNLP, Argentina) specialized in **embedded systems
 
 ## 📫 Contact
 - Email: juancruzferreiramonteiro04@gmail.com
-- LinkedIn: [in/juan-cruz-ferreira-monteiro-497228227](www.linkedin.com/in/juan-cruz-ferreira-monteiro/)
+- LinkedIn: [in/juan-cruz-ferreira-monteiro](https://www.linkedin.com/in/juan-cruz-ferreira-monteiro/)
