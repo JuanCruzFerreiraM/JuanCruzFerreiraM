@@ -1,23 +1,26 @@
-# 👋 ¡Hola! Soy Juan Cruz Ferreira Monteiro
+# 👋 Juan Cruz Ferreira Monteiro
 
-Soy estudiante de Ingeniería en Computación en la UNLP, apasionado por **IA/FinTech** y **sistemas embebidos**.
+Computer Engineering student (UNLP, Argentina) specialized in **embedded systems
+/ firmware & IoT**, with a solid base in **Python** for automation and data.
 
----
+## 🛠️ Stack
+- **Embedded:** C, C++, FreeRTOS, ESP32, ESP-IDF, MQTT
+- **Backend / data:** Python, pandas, SQL, Docker
+- **Other:** Node-RED, InfluxDB, Git
 
-## 🔭 Actualmente
-- Aprendiendo **Machine Learning** y **NLP** con aplicación a finanzas.
-- Mejorando mis habilidades en **Sistemas de tiempo real y sistemas embebidos**
+## 🚀 Featured projects
+- **[Rover ESP32 firmware](https://github.com/Rover-Team-UNLP/rover-firmware-esp32)**
+  — ESP-IDF/FreeRTOS firmware: UART bridge to a CIAA MCU, WebSocket control and
+  MJPEG video streaming. Built entirely by me.
+- **[Smart Irrigation IoT](https://github.com/JuanCruzFerreiraM/Trabajo-Final-IoT)**
+  — end-to-end IoT system: ESP32 firmware (C) + MQTT + backend + InfluxDB +
+  real-time dashboard, fully dockerized.
+- **[GcodeGenerator](https://github.com/JuanCruzFerreiraM/GcodeGenerator)**
+  — Python desktop app (slicer / G-code generator) for a 6×6 m 3D house printer,
+  built at the LEICI institute (UNLP/CONICET). With tests.
+- **[Self-Balancing Robot](https://github.com/Rover-Team-UNLP/self-balancing-robot)**
+  — closed-loop control (inverted pendulum) with a Kalman filter on ESP32/FreeRTOS.
 
-## 💻 Proyectos destacados
-- ![Slicer propio para impresión 3D de casas](https://github.com/JuanCruzFerreiraM/GcodeGenerator)
-
-
-## 📫 Contacto
-- Email: juancruzferreiramonteiro04@gmail.com 
-- GitHub: [JuanCruzFerreiraM](https://github.com/JuanCruzFerreiraM)  
-
-## 📊 Estadísticas GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCruzFerreiraM&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruzFerreiraM&hide_border=true&theme=tokyonight)
-
----
+## 📫 Contact
+- Email: juancruzferreiramonteiro04@gmail.com
+- LinkedIn: [in/juan-cruz-ferreira-monteiro-497228227](https://www.linkedin.com/in/juan-cruz-ferreira-monteiro-497228227/)
